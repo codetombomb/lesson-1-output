@@ -28,7 +28,7 @@ Let’s make Ruby say something.
 
 👉 You just told the computer to do something — and it listened.
 
-![](https://github.com/codetombomb/lesson-1-output/assets/puts-demo.gif)
+![](https://github.com/codetombomb/lesson-1-output/blob/main/assets/puts.gif?raw=true)
 
 ### Resources
 - [Medium Blog: Day 1: Understanding Ruby’s print, puts, and p](https://medium.com/@zehan9211/day-1-understanding-rubys-print-puts-and-p-4a8a89acb858)
